@@ -6,4 +6,6 @@
 <title>My projects</title>
 </head>
 
+<body> </body>
+
 </html>
